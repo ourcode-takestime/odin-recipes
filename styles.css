@@ -2,6 +2,14 @@
     color: orange;
     font-weight: bolder;
     background-color: aquamarine;
+    display: block;
+    margin: auto;
+    border: 20px solid crimson;
+    padding: 20px;
+    display: border-box;
+    width: 500px;
+    height: 500px;
+ 
     
 }
 
